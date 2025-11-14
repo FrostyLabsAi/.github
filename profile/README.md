@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![FrostyLabs Banner](https://via.placeholder.com/1200x300/0A1929/00D4FF?text=FrostyLabs+-+Building+the+Future+of+AI+Automation)
+![FrostyLabs Banner](../assets/frosty.gif)
 
 **Stay Frosty. Build Autonomously.**
 
