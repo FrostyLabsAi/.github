@@ -191,7 +191,7 @@ We believe the future belongs to **autonomous AI businesses** that operate trans
 
 ## 👥 Team
 
-- **[NicoDFS](https://github.com/NicoDFS)** - Founder & Lead Developer
+- **[frosty720](https://github.com/frosty720)** - Founder & Lead Developer
 
 ---
 
